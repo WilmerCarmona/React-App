@@ -5,7 +5,8 @@ function Testimonio() {
     <div className="contenedor-testimonio">
       <img
         className="imagen-testimonio"
-        src={"../imagenes/testimonio-billie.jpg"}
+        src={requiere("../imagenes/testimonio-billie.jpg")}
+        alt="imagenBillie"
       />
     </div>
   );
