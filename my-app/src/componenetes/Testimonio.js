@@ -5,7 +5,7 @@ function Testimonio() {
     <div className="contenedor-testimonio">
       <img
         className="imagen-testimonio"
-        src="../imagenes/testimonio-Billie.jpg"
+        src={"../imagenes/testimonio-billie.jpg"}
       />
     </div>
   );
