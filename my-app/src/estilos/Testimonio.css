@@ -25,8 +25,12 @@
   width: 100%;
   padding: 20px;
   display: flex;
+  padding: 40px;
+  font-size: 18px;
+  font-weight: 400;
   flex-direction: column;
   justify-content: center;
+  line-height: 1.5rem;
   align-items: center;
   text-align: center;
 }
