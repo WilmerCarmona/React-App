@@ -7,9 +7,9 @@ function Testimonio() {
         src={require("../imagenes/testimonio-Billie.jpg")}
         alt="imagenBillie"
       />
-      <div clasName="contenedor-p-testimonio">
+      <div className="contenedor-p-testimonio">
         <p className="nombre-testimonio">Billie Eilish</p>
-        <p classname="cargo-testimonio">Cantante</p>
+        <p className="cargo-testimonio">Cantante</p>
         <p className="texto-testimonio">
           Me Gusta esta pagina, está bien diseñada
         </p>
