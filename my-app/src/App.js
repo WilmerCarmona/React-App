@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h1>Reseñas de las personas</h1>
+        <h1 className="tit-testimonio">Reseñas de las personas</h1>
         <Testimonio />
       </div>
     </div>
