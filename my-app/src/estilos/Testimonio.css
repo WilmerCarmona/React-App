@@ -1,6 +1,6 @@
 .contenedor-testimonio {
-  width: 1170px;
-  height: 368px;
+  width: 1000px;
+  height: 314px;
   margin: 10px auto 50px;
   display: flex;
   background-color: #fff;
@@ -22,7 +22,7 @@
   text-align: center;
 }
 .contenedor-p-testimonio {
-  width: 50%;
+  width: 100%;
   padding: 20px;
   display: flex;
   flex-direction: column;
