@@ -9,7 +9,7 @@ function App() {
         <Testimonio
           nombre="Billie Eilish"
           pais="California"
-          imagen=""
+          imagen="Billie"
           cargo="Cantante y compositor"
           empresa="OpenMusic"
           texto=" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. 
