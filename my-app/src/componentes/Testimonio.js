@@ -9,7 +9,7 @@ function Testimonio(props) {
       />
       <div className="contenedor-p-testimonio">
         <p className="nombre-testimonio">
-          {props.nombre} en {props.pais}
+          {props.nombre} de {props.pais}
         </p>
         <p className="cargo-testimonio">
           {props.cargo} en {props.empresa}
