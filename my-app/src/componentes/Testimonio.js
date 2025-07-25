@@ -15,6 +15,7 @@ function Testimonio(props) {
           {props.cargo} en {props.empresa}
         </p>
         <p className="texto-testimonio">"{props.texto}"</p>
+        <p className="texto-fecha">{props.fecha}</p>
       </div>
     </div>
   );
