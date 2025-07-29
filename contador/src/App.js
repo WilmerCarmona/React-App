@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <div class="logo-contenedor">
-        <imag className="logo" src={logoNav} alt="Logo" />
+        <img className="logo" src={logoNav} alt="Logo" />
+        <h1>Hola Mundo</h1>
       </div>
     </div>
   );
