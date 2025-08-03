@@ -1,7 +1,7 @@
 import React from "react";
 
 function Boton() {
-  return <div>Boton</div>;
+  return <button>{props.texto}</button>;
 }
 
 export default Boton;
