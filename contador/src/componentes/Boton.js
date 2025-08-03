@@ -1,8 +1,11 @@
 import React from "react";
 
-function Boton({ texto, botonClic }) {
+function Boton({ texto, botonClic, manejarClic }) {
   return (
-    <button className={botonClic ? "BotonClick" : "BotonReiniciar"}>
+    <button
+      className={botonClic ? "BotonClick" : "BotonReiniciar"}
+      onClick={manejarClic}
+    >
       {texto}
     </button>
   );
