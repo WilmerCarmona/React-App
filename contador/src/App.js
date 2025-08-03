@@ -9,8 +9,7 @@ function App() {
         <img className="logo" src={logoNav} alt="Logo" />
       </div>
       <div className="contenedor-principal">
-        <Boton />
-        <Boton />
+        <Boton texto="Clic" botonClic={true} />
       </div>
     </div>
   );
