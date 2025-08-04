@@ -6,6 +6,9 @@ function App() {
   const manejarClic = () => {
     console.log('Click');
   }
+  const reiniciarContador = () =>{
+    console.log('Reiniciar');
+  }
   return (
     <div className="App">
       <div class="logo-contenedor">
