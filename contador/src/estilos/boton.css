@@ -1,6 +1,8 @@
-button{
-    width:250px;
-    height:80px;
-    font-family:Roboto, sans-serif
-    font-weight:
+button {
+  width: 250px;
+  height: 80px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  color: white;
+  border: 4px solid white;
 }
