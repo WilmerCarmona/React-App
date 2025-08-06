@@ -6,6 +6,7 @@
 html,
 body {
   border-color: black;
+  background-color: rgb(69, 75, 75);
 }
 .App {
   display: flex;

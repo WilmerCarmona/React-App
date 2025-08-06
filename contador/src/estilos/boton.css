@@ -3,6 +3,7 @@ button {
   height: 80px;
   font-family: Roboto, sans-serif;
   font-weight: bold;
+  font-size: 18px;
   color: white;
   border: 4px solid white;
   border-radius: 15px;
@@ -12,4 +13,12 @@ button {
 
 button:hover {
   background-color: gray;
+}
+
+.BotonClick {
+  background-color: sandybrown;
+}
+
+.BotonReiniciar {
+  background-color: blue;
 }
