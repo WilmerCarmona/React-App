@@ -11,14 +11,18 @@ button {
   cursor: pointer;
 }
 
-button:hover {
-  background-color: gray;
+.BotonClick {
+  background-color: rgb(122, 185, 131);
 }
 
-.BotonClick {
-  background-color: sandybrown;
+.BotonClick:hover {
+  background-color: rgb(89, 122, 103);
 }
 
 .BotonReiniciar {
-  background-color: blue;
+  background-color: rgb(231, 104, 125);
+}
+
+.BotonReiniciar:hover {
+  background-color: rgb(196, 144, 157);
 }
