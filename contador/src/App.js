@@ -15,6 +15,7 @@ function App() {
         <img className="logo" src={logoNav} alt="Logo" />
       </div>
       <div className="contenedor-principal">
+        <Contador />
         <Boton texto="Click" botonClic={true} manejarClic={presionarClic} />
         <Boton
           texto="Reiniciar"
