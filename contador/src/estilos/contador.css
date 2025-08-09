@@ -1,3 +1,6 @@
 .contador {
   min-width: 300px;
+  height: 300px;
+  font-size: 150px;
+  color: aliceblue;
 }
